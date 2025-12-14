@@ -13,7 +13,7 @@ This report was created to familiarize myself with Power BI.
 ---
 
 ## Objectives
-This dashboard aims to identify the optimal combination of the following factors that encourages visitors to return to a tourist site:
+This dashboard aims to identify the optimal combination of the following factors that encourages visitors to return to a tourist site:<br />
 — Type of visit (solo, group, couple, family, etc.)<br />
 — Purpose of stay (photography, relaxation, adventure, wildlife study, etc.)<br />
 — Type of site (mountain, forest, lake, coast, etc.)<br />
@@ -67,7 +67,7 @@ Ce rapport est un exercice personnel créé pour approfondir ma pratique de Powe
 ---
 
 ## Objectifs
-1. Ce dashboard vise à identifier la combinaison idéale des facteurs suivants : 
+1. Ce dashboard vise à identifier la combinaison idéale des facteurs suivants :<br />
 — type de visite (solo, groupe…),<br /> 
 — objectif du séjour (photographie, relaxation…),<br /> 
 — type de site (montagne, forêt…),<br />
