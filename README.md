@@ -79,12 +79,12 @@ qui incite les visiteurs à revenir sur un site touristique.
 - Les meilleures “winning combos” (Top 5) combinent généralement séjour en groupe ou en solo avec relaxation, aventure ou photographie, sur des sites de type lac, forêt ou côte, et affichent une forte intention de retour.​
 - Les visiteurs présentant une meilleure éducation éco et une satisfaction plus élevée contribuent davantage aux segments à forte intention de revisite.​
 
-## Technical Details
+## Détails techniques
 | **Aspect** | **Details** |
 |-------------|-------------|
-| **Tools Used** |	Power BI |
-| **Data Source** |(https://www.kaggle.com/datasets/programmer3/ecotourism-sentiment-and-satisfaction-dataset/data)|
-| **Visualization** | Diagrammes en barres horizontales pour le Top 5 des combinaisons, jauge pour le niveau moyen d’éducation éco, cartes KPI et slicers interactifs par âge et niveau de satisfaction. |
+| **Logiciel** |	Power BI |
+| **Source** |(https://www.kaggle.com/datasets/programmer3/ecotourism-sentiment-and-satisfaction-dataset/data)|
+| **Visualisation** | Diagrammes en barres horizontales pour le Top 5 des combinaisons, jauge pour le niveau moyen d’éducation éco, cartes KPI et slicers interactifs par âge et niveau de satisfaction. |
 
 ## Compétences Power BI mises en œuvre
 - Nettoyage, transformation et modélisation des données (visiteurs, sites, motifs de visite, intention de retour).
